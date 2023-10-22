@@ -1,0 +1,235 @@
+
+
+.left {background-color:beige;
+
+       width: 20%;
+       height: 1500px;
+       float: left;}
+
+
+
+.middle {background-color: beige;
+    width: 60%;
+    height: 1500px;
+    float: left;}
+
+.mt{background-color: beige;
+width: auto;
+height: 50px;}
+
+
+
+.mm{background-color: brown;
+width: auto;
+height: 1400px;}
+.mright{background-color: slategray;
+width: 40%;
+height: 1400px; float: left;}
+
+.mpicture{background-color: slategray;
+width: 100%;
+height: 300px;}
+
+     .ME{ float: left;
+        margin-top: 10px;
+        margin-left: 50px;
+          width: 70%;
+        min-height: 100px;
+        border-radius: 50%;
+    }
+
+
+.mper{background-color: violet;
+    width: 100%;
+    height: 350px;}
+
+    .m1{background-color: silver;
+        width: 100%;
+        height: 40px; text-align: center; 
+        border-style: solid;
+        border-width: 10px;
+        border-color: slategray
+    }
+
+    .m2{background-color: slategray;
+        width: 100%;
+        height: 310px; 
+        border-style: solid;
+        border-width: 10px;
+        border-color: slategray}
+
+
+
+.moth{background-color: black;
+    width: 100%;
+    height: 350px;}
+    .m3{background-color: silver;
+        width: 100%;
+        height: 50px; 
+        border-style: solid;
+        border-width: 10px;
+        border-color: slategray;
+        text-align: center;}
+    .m4{background-color: slategray;
+        width: 100%;
+        height: 310px; 
+        border-style: solid;
+        border-width: 5px;
+        border-color: slategray}
+
+.mcareer{background-color: blue;
+    width: 100%;
+    height: 400px;}
+
+
+.m5{background-color: silver;
+    width: 100%;
+    height: 50px; 
+    border-style: solid;
+    border-width: 10px;
+    border-color: slategray;
+    text-align: center;}
+.m6{background-color: slategray;
+    width: 100%;
+    height: 320px; 
+    border-style: solid;
+    border-width: 5px;
+    border-color: slategray}
+
+
+
+.mleft{background-color: lightgray;
+width: 60%;
+height: 1400px;
+float: right;}
+
+
+
+
+.mb{background-color: beige;
+height: 50px;}
+
+
+
+
+.right{background-color: beige;
+    width: 20%;
+    height: 1500px;
+    float: right;}
+
+.r1{background-color: navy;
+    width: 100%;
+    height: 200px;}
+    
+    
+.rl{background-color: silver;
+width: 2%;
+height: 200px;
+float: left;}
+
+.rm{background-color: violet;
+    width: 96%;
+    height: 200px; float: left;}
+.rr{background-color: silver;
+    width: 2%;
+    height: 200px; float: right;}
+    .rmt{background-color: silver;
+        width: 100%;
+        height: 10px;}
+    .rmm{background-color: slategray;
+        width: 100%;
+        height: 180px; text-align: center; }
+    .rmb{background-color: silver;
+        width: 100%;
+        height: 10px;}
+
+
+.r2{background-color: navy;
+    width: 100%;
+    height: 400px;}
+.r3{background-color: silver;
+    width: 100%;
+    height: 400px;}
+.r4{background-color: springgreen;
+    width: 100%;
+    height: 200px;}
+
+.r5{background-color: navy;
+    width: 100%;
+    height: 200px;
+    }
+
+.r2t{background-color: slategray;
+    width: 100%;
+    height: 50px; border-style: solid;
+    border-width: 20px;
+    text-align: center;
+  
+    border-color: silver
+    
+    }
+    .r2b{background-color: silver;
+        width: 100%;
+        height: 350px;
+        text-align: left;
+        }  
+.r3t{background-color: slategray;
+    width: 100%;
+    height: 50px; border-style: solid;
+    border-width: 20px;
+    text-align: center;
+   border-color: silver
+    }
+.r3b {background-color: silver;
+width: 100%;
+height: 350px;
+} 
+
+.r4t{background-color: slategray;
+    width: 100%;
+    height: 50px; border-style: solid;
+    border-width: 20px;
+    text-align: center;
+   border-color: silver
+    }
+.r4b{background-color: silver;
+    width: 100%;
+    height: 150px;
+    } 
+.r5t{background-color: silver;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    border-top: dotted;
+    } 
+.r5b{background-color: silver;
+    width: 100%;
+    height: 130px;
+    
+    
+  }
+
+  .sig{ float: center;
+    margin-top: 5px;
+    margin-left: 200px;
+      width: 10%;
+    min-height: 50px; mix-blend-mode:multiply
+}
+
+.cstc{ float: center;
+    margin-top: 5px;
+    margin-left: 70px;
+      width: 70%;
+    min-height: 50px; }
+
+.jn{ float: center;
+    margin-top: 5px;
+    margin-left: 70px;
+      width: 70%;
+    min-height: 50px; }
+.ele{ float: center;
+    margin-top: 5px;
+    margin-left: 70px;
+      width: 70%;
+    min-height: 50px; }
+
